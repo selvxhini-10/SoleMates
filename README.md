@@ -1,6 +1,8 @@
-[# Solemates: Sock Matchmaker with BracketBot :)]([url](https://devpost.com/software/sole-mates-sock-matchmaker-with-bracketbot))
+# Solemates: Sock Matchmaker with BracketBot :)
 
-Solemates finds matching socks in an overhead image, plans a two-arm reunion, validates every Cartesian motion against the supplied BracketBot URDF, and escorts unmatched socks to the **Singles Club**.
+<img width="1901" height="962" alt="Screenshot 2026-09-15 202930" src="https://github.com/user-attachments/assets/5b9f1274-d95d-44a5-bba6-8abe0af1b881" />
+
+Solemates finds matching socks in an overhead image, plans a two-arm reunion, validates every Cartesian motion against the supplied BracketBot URDF, and escorts unmatched socks to the **Singles Club**. Check out more info here: https://devpost.com/software/sole-mates-sock-matchmaker-with-bracketbot 
 
 ## Run it
 
